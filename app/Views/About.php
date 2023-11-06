@@ -220,9 +220,9 @@
 
     <div class="heroe">
 
-        <h1>Selamat Datang di "Website Naufal" <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
+        <h1>About Me <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
 
-        <h2>ini digunakan untuk menunjukan kompetisi saya dalam pengembangan aplikasi web serta mengelola source code menggunakan sistem kontrol versi GIT</h2>
+        <h2>halo, nama saya Naufal Hafiyyan, saya berasal dari Kopo</h2>
 
     </div>
 
